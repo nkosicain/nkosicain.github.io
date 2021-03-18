@@ -6,6 +6,10 @@ You can use the [editor on GitHub](https://github.com/nkosicain/nkosicain.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Here is a presentation about my lifes work
+
+<embed src="/nkosicain/nkosicain.github.io/blob/main/images/Nkosi%20Cain%20-%20tea%20time%20presentation%20(2).pdf" type="application/pdf">
+
 ### Education
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
